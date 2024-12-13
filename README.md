@@ -11,6 +11,6 @@
 ### Why This Project?
 *Cooking made easy*: This project simplifies complex recipes.
 **Bold flavors**, **bold ideas**, and no compromise on taste.
-
+![Chill Guy](chillguy.png)
 
 
