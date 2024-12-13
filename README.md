@@ -1,7 +1,24 @@
-# My favourite Vietnamese snack. It is very healthy and delicious
-    line 2 changed remotely  
+# Recipe
 
-    last line changed locally
+### This project is all about creating and sharing delicious recipes!
 
-    Enjoy my recipe <3
+### Features
+- Easy-to-follow recipes
+- High-quality images
+- Nutritional information included
+
+### Why This Project?
+*Cooking made easy*: This project simplifies complex recipes.
+**Bold flavors**, **bold ideas**, and no compromise on taste.
+
+![Chill Guy](chillguy.png)
+
+---
+
+# My Favourite Vietnamese Snack
+
+### It is very healthy and delicious
+
+Enjoy my recipe <3
+
 
